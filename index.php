@@ -1,8 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <hash>
     <meta charset="UTF-8">
+    <meta name="viewport" content="wiodth=device-width, initial-scale=1.0">
+    <title>learn bootstrap</title>
+
     <link rel="stylesheet" href="css/bootstrap.min.css">
+
 </hash>
 <body>
 <nav class="navbar navbar-light bg-light">
