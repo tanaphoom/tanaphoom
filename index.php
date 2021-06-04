@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <hash>
-<title>oooooo</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
 </hash>
 <body>
 <nav class="navbar navbar-light bg-light">
