@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <hash>
+<title>oooooo</title>
 </hash>
 <body>
 
