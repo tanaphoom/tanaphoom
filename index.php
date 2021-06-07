@@ -52,9 +52,9 @@
 
 
 <div class="card mb-3">
-<img src="l3.jpg" class="rounded float-start" alt="...">
+<img src="l3.jpg" class="rounded float-start" alt="50">
 
-<img src="l3.jpg" class="rounded float-end" alt="...">
+<img src="l3.jpg" class="rounded float-end" alt="50">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
