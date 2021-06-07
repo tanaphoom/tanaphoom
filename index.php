@@ -53,11 +53,11 @@
 <br>
 <br>
 
-<div class="card-group" style="max-width: 540px;">
-  <div class="row g-0">
+<div class="card-group">
+  <div class="card">
       <img src="l3.jpg" while="500px">
     </div>
-    <div class="col-md-8">
+    
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -67,11 +67,11 @@
   </div>
 </div>
    
-<div class="card" style="max-width: 540px;">
-  <div class="row g-0">
+<div class="card">
+  <div class="card">
       <img src="l3.jpg" while="500px">
     </div>
-    <div class="col-md-8">
+    
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
