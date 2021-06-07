@@ -1,3 +1,6 @@
+<?php
+  include 'show.php'
+?>
 <!DOCTYPE html>
 <html lang="en">
 <hash>
