@@ -51,10 +51,10 @@
 </div>
 
 
-
+<div class="card mb-3" style="max-width: 540px;">
   <div class="row g-0">
     
-      <img src="l3.jpg" while="500px" vspace="400">
+      <img src="l3.jpg" while="500px" vspace="100">
     </div>
     <div class="col-md-8">
       <div class="card-body">
