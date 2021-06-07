@@ -62,13 +62,7 @@
     </div>
   </div>
 
-  <div class="card">
-    <img src="l1.jpg" class="card-img-top" alt="40">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>   
-    </div>
-  </div>
+  
 
   <div class="card">
     <img src="l1.jpg" class="card-img-top" alt="60">
