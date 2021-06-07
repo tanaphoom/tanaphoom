@@ -53,7 +53,7 @@
 
 <div class="card mb-3">
 <img src="l3.jpg" class="rounded float-start" alt="...">
-<img src="l3.jpg" class="rounded mx-auto d-block" alt="...">
+
 <img src="l3.jpg" class="rounded float-end" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
